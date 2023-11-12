@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lang>
+  <!--
+  To add a new translation, use either the long or short form of the language
+   code as child-node name of the 'lang' root node. Each of the forms must be
+   based on a 'CurrentUICulture.Name' property of the .NET class
+   'System.Globalization.CultureInfo'.
+   - The long form consists of the combination of the 2 letters for the
+      language, an underscore, and the country/region code.
+      NOTE: The hyphen of the 'CurrentUICulture.Name' property is replaced with
+      an underscore to get a valid node name.
+      Example: 'zh_Hans' or 'zh_Hant'
+   - The short form is only the 2 letters for the language. Prefer this form if
+      there are no differences in translation for countries or regions that use
+      the same language.
+      Example: 'de' (instead of 'de_AT', 'de_DE' etc.)
+  Search order:
+   - The long form is found.
+   - Else, the short form is found.
+   - Else, a long form with the same language but different country/region code
+      is found.
+   - Else, fall back to English.
+  Make sure
+   - to use CDATA elemets for translated strings,
+   - to save the file UTF-8 encoded.
+  -->
+  <en>
+    <s id="0"><![CDATA[CodeBlocks and compiler directory]]></s>
+    <s id="1"><![CDATA[Projects directory]]></s>
+    <s id="2"><![CDATA[Directory for additional header files]]></s>
+    <s id="3"><![CDATA[Compiler]]></s>
+    <s id="4"><![CDATA[Start]]></s>
+    <s id="5"><![CDATA[Cancel]]></s>
+    <s id="6"><![CDATA[Please select the Code::Blocks directory.]]></s>
+    <s id="7"><![CDATA[Please select the Projects directory.]]></s>
+    <s id="8"><![CDATA[Please select the Additional_Include directory.]]></s>
+    <s id="9"><![CDATA["Code::Blocks" has already been started in another process.
+Close the "Code::Blocks" window and try again.]]></s>
+    <s id="10"><![CDATA[Error! Select the "CodeBlocks and compiler directory".]]></s>
+    <s id="11"><![CDATA[Error! Select the "Projects directory".]]></s>
+    <s id="12"><![CDATA[Error! Select the "Directory for additional header files".]]></s>
+    <s id="13"><![CDATA[The file "codeblocks.exe" was not found.
+Check your selection in the "CodeBlocks and compiler directory" box.]]></s>
+    <s id="14"><![CDATA[Error! No compiler found. Visit]]></s>
+    <s id="15"><![CDATA[Ready. - There is a new compiler version. Visit]]></s>
+    <s id="16"><![CDATA[Ready. - If necessary, select the compiler for the target platform.]]></s>
+  </en>
+  <de>
+    <s id="0"><![CDATA[CodeBlocks- und Compilerverzeichnis]]></s>
+    <s id="1"><![CDATA[Projektverzeichnis]]></s>
+    <s id="2"><![CDATA[Verzeichnis für zusätzliche Headers]]></s>
+    <s id="3"><![CDATA[Compiler]]></s>
+    <s id="4"><![CDATA[Starten]]></s>
+    <s id="5"><![CDATA[Abbrechen]]></s>
+    <s id="6"><![CDATA[Bitte wählen Sie das Code::Blocks-Verzeichnis aus.]]></s>
+    <s id="7"><![CDATA[Bitte wählen Sie das Projects-Verzeichnis aus.]]></s>
+    <s id="8"><![CDATA[Bitte wählen Sie das Additional_Include-Verzeichnis aus.]]></s>
+    <s id="9"><![CDATA["Code::Blocks" wurde bereits in einem anderen Prozess gestartet.
+Schließen Sie das "Code::Blocks" Fenster und versuchen Sie es erneut.]]></s>
+    <s id="10"><![CDATA[Fehler! Wählen Sie das "CodeBlocks- und Compilerverzeichnis" aus.]]></s>
+    <s id="11"><![CDATA[Fehler! Wählen Sie das "Projektverzeichnis" aus.]]></s>
+    <s id="12"><![CDATA[Fehler! Wählen Sie das "Verzeichnis für zusätzliche Headers" aus.]]></s>
+    <s id="13"><![CDATA[Die Datei "codeblocks.exe" wurde nicht gefunden.
+Überprüfen Sie ihre Auswahl im Feld "CodeBlocks- und Compilerverzeichnis".]]></s>
+    <s id="14"><![CDATA[Fehler! Kein Compiler gefunden. Besuchen Sie]]></s>
+    <s id="15"><![CDATA[Bereit. - Es liegt eine neue Compilerversion vor. Besuchen Sie]]></s>
+    <s id="16"><![CDATA[Bereit. - Wählen Sie ggf. den Compiler für die Zielplattform aus.]]></s>
+  </de>
+</lang>
