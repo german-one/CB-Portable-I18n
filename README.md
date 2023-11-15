@@ -10,7 +10,9 @@ Users are welcome to contribute their translation strings in a pull request or e
 
 ### **Already supported languages**  
 
-- English  
+- English 
+- French (not yet checked by a native speaker)   
 - German  
+- Spanish (not yet checked by a native speaker)  
 
 ----

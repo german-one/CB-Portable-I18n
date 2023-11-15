@@ -66,4 +66,46 @@ Schließen Sie das "Code::Blocks" Fenster und versuchen Sie es erneut.]]></s>
     <s id="15"><![CDATA[Bereit. - Es liegt eine neue Compilerversion vor. Besuchen Sie]]></s>
     <s id="16"><![CDATA[Bereit. - Wählen Sie ggf. den Compiler für die Zielplattform aus.]]></s>
   </de>
+  <es>
+    <s id="0"><![CDATA[Directorio para CodeBlocks y el compilador]]></s>
+    <s id="1"><![CDATA[Directorio de proyectos]]></s>
+    <s id="2"><![CDATA[Directorio para archivos de encabezado adicionales]]></s>
+    <s id="3"><![CDATA[Compilador]]></s>
+    <s id="4"><![CDATA[Iniciar]]></s>
+    <s id="5"><![CDATA[Cancelar]]></s>
+    <s id="6"><![CDATA[Seleccione el directorio Code::Blocks.]]></s>
+    <s id="7"><![CDATA[Seleccione el directorio de Proyectos.]]></s>
+    <s id="8"><![CDATA[Seleccione el directorio Additional_Include.]]></s>
+    <s id="9"><![CDATA["Code::Blocks" ya se ha iniciado en otro proceso.
+Cierra la ventana "Code::Blocks" e inténtalo de nuevo.]]></s>
+    <s id="10"><![CDATA[¡Error! Seleccione el "Directorio para CodeBlocks y el compilador".]]></s>
+    <s id="11"><![CDATA[¡Error! Seleccione el "Directorio de proyectos".]]></s>
+    <s id="12"><![CDATA[¡Error! Seleccione el "Directorio para archivos de encabezado adicionales".]]></s>
+    <s id="13"><![CDATA[No se encontró el archivo "codeblocks.exe".
+Revise su selección en el cuadro "Directorio para CodeBlocks y el compilador".]]></s>
+    <s id="14"><![CDATA[¡Error! No se encontró ningún compilador. Visita]]></s>
+    <s id="15"><![CDATA[Listo. - Hay una nueva versión del compilador. Visita]]></s>
+    <s id="16"><![CDATA[Listo. - Si es necesario, seleccione el compilador para la plataforma de destino.]]></s>
+  </es>
+  <fr>
+    <s id="0"><![CDATA[Répertoire pour CodeBlocks et le compilateur]]></s>
+    <s id="1"><![CDATA[Répertoire des projets]]></s>
+    <s id="2"><![CDATA[Répertoire pour les fichiers d'en-tête supplémentaires]]></s>
+    <s id="3"><![CDATA[Compilateur]]></s>
+    <s id="4"><![CDATA[Démarrer]]></s>
+    <s id="5"><![CDATA[Annuler]]></s>
+    <s id="6"><![CDATA[Veuillez sélectionner le répertoire Code::Blocks.]]></s>
+    <s id="7"><![CDATA[Veuillez sélectionner le répertoire Projets.]]></s>
+    <s id="8"><![CDATA[Veuillez sélectionner le répertoire Additional_Include.]]></s>
+    <s id="9"><![CDATA[«Code::Blocks» a déjà été démarré dans un autre processus.
+Fermez la fenêtre «Code::Blocks» et réessayez.]]></s>
+    <s id="10"><![CDATA[Erreur! Sélectionnez le «Répertoire pour CodeBlocks et le compilateur».]]></s>
+    <s id="11"><![CDATA[Erreur! Sélectionnez le «Répertoire des projets».]]></s>
+    <s id="12"><![CDATA[Erreur! Sélectionnez le «Répertoire pour les fichiers d'en-tête supplémentaires».]]></s>
+    <s id="13"><![CDATA[Le fichier «codeblocks.exe» n'a pas été trouvé.
+Vérifiez votre sélection dans la zone «Répertoire pour CodeBlocks et le compilateur».]]></s>
+    <s id="14"><![CDATA[Erreur! Aucun compilateur trouvé. Visitez]]></s>
+    <s id="15"><![CDATA[Prêt. - Il existe une nouvelle version du compilateur. Visitez]]></s>
+    <s id="16"><![CDATA[Prêt. - Si nécessaire, sélectionnez le compilateur pour la plateforme cible.]]></s>
+  </fr>
 </lang>
